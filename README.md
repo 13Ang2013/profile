@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rayan Atif</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on Pakistan [Website](13ang2013.github.io/website/)
+- 🔭 I’m currently working on Pakistan 
 
-- 👯 I’m looking to collaborate on [Form 2](13ang2013.github.io/Form-2/)
+- 👯 I’m looking to collaborate on 
 
-- 🤝 I’m looking for help with [Chees](13ang2013.github.io/Chees/)
+- 🤝 I’m looking for help with 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
